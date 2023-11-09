@@ -2,8 +2,8 @@
 
 Welcome to my personal repository, where you'll find exciting projects such as: 
 ```
-Anagram Solver
-Sudoku
+Tree Parser
+Dropbox Space Analyzer
 Language snippets and
 Utilities like the Tree Parser.
 ```

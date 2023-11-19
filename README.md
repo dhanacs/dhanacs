@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-Welcome to my personal repository, where you'll find exciting projects such as: 
+Welcome to my personal repository, where you'll find exciting projects like: 
 ```
 Tree Parser
 Dropbox Space Analyzer
